@@ -1,0 +1,7 @@
+p1 folder contains the original code which you have given for the grammar correction(reference ke liye)
+Home.html ye main landing page hai jaha se you can access grammar, translate and plagiarism
+grammar folder me jo static h usme app.js and app.css h aur template me grammar.html .. agr me main.py run kru or vo jo port number diya h uspr jau to it works
+(grammar correction hota h) but jab me grammar.html pe home button click kru tab nahi hota kuch aur error ata h
+aur jab Home.html se grammar ka page kholu to vo khulta hai pr work nahi karta kuch bhi ............
+i want ki jab Home.html se me access kru grammar.html vo dono same port pr chale and execute ho grammar correction
+and me grammar.html se home page tak vapas aa pau 
